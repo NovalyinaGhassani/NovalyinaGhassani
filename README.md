@@ -33,5 +33,5 @@
 ---
 
 ## 📫 Contact Me
-- LinkedIn: (isi link kamu)
-- Email: (isi email kamu)
+- LinkedIn: https://www.linkedin.com/in/novalyinaghassani/
+- Email: novalyinaghassani@gmail.com

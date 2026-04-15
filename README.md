@@ -30,6 +30,17 @@
 
 👉 https://github.com/NovalyinaGhassani/ocr-engine
 
+### 🔹 Automated Obstacle Detection System (Maritime Safety)
+
+- Designed and developed an AI-based early warning collision system for fishing vessels <30 GT  
+- Implemented computer vision-based obstacle detection using onboard camera  
+- Deployed and tested the system directly on a real fishing vessel  
+- Enabled real-time detection and alert mechanism to reduce collision risk  
+- Presented in an international seminar and published in a scientific journal  
+
+📄 Paper: https://iopscience.iop.org/article/10.1088/1755-1315/1585/1/012046  
+💻 Repo: -
+
 ---
 
 ## 📫 Contact Me

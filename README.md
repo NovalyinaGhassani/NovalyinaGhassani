@@ -28,7 +28,7 @@
 - Implemented worker-based architecture
 - Added text cleaning pipeline
 
-👉 https://github.com/NovalyinaGhassani/ocr-engine
+💻 Repo: https://github.com/NovalyinaGhassani/ocr-engine
 
 ### 🔹 Automated Obstacle Detection System (Maritime Safety)
 
@@ -39,7 +39,7 @@
 - Presented in an international seminar and published in a scientific journal  
 
 📄 Paper: https://iopscience.iop.org/article/10.1088/1755-1315/1585/1/012046  
-💻 Repo: -
+💻 Repo: https://github.com/NovalyinaGhassani/obstacle-detection-system
 
 ---
 
